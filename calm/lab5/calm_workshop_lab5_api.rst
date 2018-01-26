@@ -648,6 +648,7 @@ Test the runtime and the code by running the following comand from a local termi
 
 .. code-block:: bash
 
+   $ cd automation/solution
    $ python main.py
 
 If successfull, You should see output for VM, Blueprint, and deployed Application elements configured and/or running on the target cluster...
