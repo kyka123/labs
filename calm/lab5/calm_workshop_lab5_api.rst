@@ -472,13 +472,13 @@ In this section we'll Navigate the REST API Explorer to execute launching a blue
 
 .. figure:: http://s3.nutanixworkshops.com/calm/lab5/image33.png
 
-9. Name the object *app_profile_reference*. Add 2 key/value pairs as *string* members to the *app_profile_reference* object by right-clicking on the node and select *append*, and then *string*.  Name the key/values *kind:app_profile* and
-
-.. figure:: http://s3.nutanixworkshops.com/calm/lab5/image34.png
-
-10.  Name the key/values *kind:app_profile* and *uuid:[UUID of APP Profile]*. **NOTE:** You find the *uuid* of the *app_profile* by expanding the *resources* node.  Copy the *uuid* and past it to the *uuid* field of the *app_profile_reference* object.
+9.  Name the key/values *kind:app_profile* and *uuid:[UUID of APP Profile]*. **NOTE:** You find the *uuid* of the *app_profile* by expanding the *resources* node.  Copy the *uuid* and past it to the *uuid* field of the *app_profile_reference* object.
 
 .. figure:: http://s3.nutanixworkshops.com/calm/lab5/image35.png
+
+10. Name the object *app_profile_reference*. Add 2 key/value pairs as *string* members to the *app_profile_reference* object by right-clicking on the node and select *append*, and then *string*.  Name the key/values *kind:app_profile* and
+
+.. figure:: http://s3.nutanixworkshops.com/calm/lab5/image34.png
 
 11. The JSON Node(s) should appear as follows:
 
